@@ -1,2 +1,6 @@
 # getting-up-python
-Jupyter notebooks with python problems.
+Привет, Друг!
+
+Тут будет лежать N тетрадок с задачками по python\ML. Тетрадки имеют формат .ipynb и открываться с помощью программы Jupyter Notebook. Установить её проще всего скачав дистрибутив (Anaconda https://www.continuum.io/downloads). Важно: в процессе установки дистрибутива Anaconda нужно поставить галочку 
+
+
